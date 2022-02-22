@@ -1,0 +1,92 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.yellow-background {
+  background-color: #F5D25A;
+  padding: 20px;
+  margin: 0px;
+  font-size: 16px;
+  font-weight: 520;
+}
+
+.yellow-background a {
+  color: #192a38;
+}
+
+.navy-background {
+  background-color: #1A2A38;
+  color: #2998a2;
+}
+
+.navy-background a {
+  color: #2998a2;
+}
+
+.ui.borderless.navymenu.menu {
+  background: none;
+}
+
+.ui.borderless.navymenu.menu .item {
+  background: none;
+  color: #2998a2;
+  font-size: 14px;
+  font-weight: 520;
+  padding: 15px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.middle-background {
+  padding: 325px;
+  display: block;
+  background-size: contain;
+  background-position: bottom right;
+  background-image: url("https://tax.hawaii.gov/wp-content/uploads/2021/07/HTO-V12.png"),linear-gradient(69deg,#ffffff 5%,#2998a2 100%)!important;
+  background-repeat: no-repeat;
+}
+
+.orange-background {
+  background-color: #F8AA00;
+  padding: 30px;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.footer-background {
+  background-color: #1A2A38;
+  color: whitesmoke;
+  padding: 70px;
+  line-height: 2.5;
+}
+
+#calendar {
+  position: absolute;
+  right: 0px;
+  top: 114px;
+  background-color: white;
+  height: 70px;
+  width: 470px;
+  color: #f9aa00;
+  font-family: 'Roboto',Helvetica,Arial,sans-serif;
+  font-weight: 545;
+  font-size: 15px;
+  text-align: center;
+  line-height: 70px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  letter-spacing: 1px;
+}
+
+.veryboldfont {
+  color:#192a38;
+  font-size: 68px;
+  font-weight: bolder;
+  position: absolute;
+  left: 40px;
+}
+
+.infotext{
+  position: absolute;
+  left: 40px;
+  color:#192a38;
+  font-size: 20px;
+}
